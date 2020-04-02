@@ -1,0 +1,34 @@
+[info]
+codepage=65001
+readonly=true
+version=4.00
+format=2.00
+title=Sumi Painting
+refcount=2
+
+[titles]
+1040=Pastello
+1053=Akvarell
+1032=Ακουαρέλα
+1036=Aquarelle
+1031=Sumimalerei
+1044=Maleri
+2052=彩条
+1028=水彩
+1042=수묵화
+1038=Akvarell
+1049=Японская кисть
+1046=Aquarela
+1041=墨絵
+2070=Aguarela
+1054=รูปสีน้ำ
+1025=رسم سومي
+3082=Pintura sumi
+1035=Sumi-maalaus
+1030=Betonmur
+1043=Aquarel
+1029=Malování Sumi
+1045=Akwarela
+1037=ציור סומי
+1055=Sumi Resim Sanatı
+
