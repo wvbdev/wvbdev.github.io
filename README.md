@@ -9,7 +9,7 @@ This site only contains basic HTML and it's not HTTPS-only, maintaining maximum 
 ## Functions
 * Test the network connection between your legacy device and the Internet
 * Check your browser's User Agent (UA)
-* Provide download links to some hardware information utilities and newer browsers
+* Provide download links to some hardware information utilities and newer browsers for your legacy device
 
 ## Contact us
 If you have any problems or suggestions, please contact us using the methods listed below:
